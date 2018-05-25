@@ -6,7 +6,6 @@ console.log(array.length)
 //Adicionar novos elementos no arrray Push
 array.push("string",{id:5}, 78.56, false)
 
-console.log(array)
 
 // remover um elemento do array com POP
 
@@ -15,3 +14,4 @@ console.log(array.pop())
 delete array[5]
 console.log(array)
 console.log(typeof array)
+console.log(array)
